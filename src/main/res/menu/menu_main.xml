@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.assignmenttwo.MainActivity">
+
+    <item android:id="@+id/random"
+        android:title= "@string/random"
+        android:orderInCategory="101"
+        app:showAsAction="ifRoom"
+        />
+</menu>
